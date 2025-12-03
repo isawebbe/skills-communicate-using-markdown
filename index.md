@@ -11,4 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 I'm playing with headers!
 
+- [ ] Build commune
+- [ ] Assemble crack team of commune members
+- [ ] Live happily ever after
 
